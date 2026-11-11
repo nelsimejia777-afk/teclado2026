@@ -1,0 +1,12 @@
+TECLADO VOZ
+===========
+1. Sube TODO el contenido de esta carpeta a un repositorio de GitHub
+   (incluida la carpeta oculta .github).
+2. Ve a Actions > "Build Teclado Voz" > Run workflow (o se ejecuta solo al subir).
+   Tarda unos 8 a 15 minutos la primera vez.
+3. Descarga el artefacto "TecladoVoz-apk", extrae e instala app-release.apk.
+4. Abre la app y sigue los pasos 1 a 5:
+   activar teclado, elegirlo, dar permiso de micrófono, descargar el modelo.
+5. En cualquier campo de texto toca el micrófono: graba hasta que lo toques otra vez.
+
+Si falla la compilación, copia el error del paso "Compilar APK" y me lo pasas.
